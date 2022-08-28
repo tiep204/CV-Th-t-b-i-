@@ -1,0 +1,29 @@
+#wrapper{
+    max-width: 1000px;
+}
+#header{
+    padding: 0px;
+    text-align: center;
+
+}
+#main-content{
+    display: flex;
+}
+#content{
+    flex-basis: 60%;
+    margin: 100px;
+    height: 500px;
+
+
+}
+#sidebar{
+
+   flex-basis: 40%;
+    height: 800px;
+    width: 900px;
+    border-radius: 1px;
+    background: #c7aedc;
+    margin: 100px;
+
+
+}
